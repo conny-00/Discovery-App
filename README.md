@@ -1,4 +1,5 @@
 
+
 ¡Bienvenido al repositorio oficial del proyecto final de **Programación Móvil**! Esta aplicación es una infografía digital interactiva y nativa, diseñada específicamente para despertar el interés de estudiantes de preparatoria y bachillerato en la carrera de **Ingeniería en Sistemas Computacionales 
 
 ---
@@ -30,6 +31,10 @@ El desarrollo de la aplicación se rige bajo estándares estrictos de la ingenie
 
 
 ##  Screenshots
+<img width="1224" height="2700" alt="WhatsApp Image 2026-05-27 at 10 26 17 PM (1)" src="https://github.com/user-attachments/assets/d555234b-7811-4f94-9234-db66f7de7584" />
+<img width="612" height="1350" alt="WhatsApp Image 2026-05-27 at 10 26 18 PM (3)" src="https://github.com/user-attachments/assets/a3b95b31-766c-4feb-92fa-65f0d2c0f187" />
+<img width="1224" height="2700" alt="WhatsApp Image 2026-05-27 at 10 26 17 PM" src="https://github.com/user-attachments/assets/7a53c698-3f57-4a38-99fa-2f68c21fa081" />
+<img width="612" height="1350" alt="WhatsApp Image 2026-05-27 at 10 26 17 PM (3)" src="https://github.com/user-attachments/assets/f30b1550-10de-474a-8e75-97cbd75b863d" />
 
 
 
